@@ -24,12 +24,12 @@ You can also toggle the visibility of the password field.
 After submitting the form, you'll be directed to a new page where you can view the submitted details.
 
 #Features:
-Form validation for required fields
-Display of error messages
-Submission button disabled until all fields are filled correctly
-Show/hide password functionality
-Display of submitted details on a new route
+Form validation for required fields.
+Display of error messages.
+Submission button disabled until all fields are filled correctly.
+Show/hide password functionality.
+Display of submitted details on a new route.
 
 #Technologies Used:
-React
-React Router DOM
+React,
+ React Router DOM.
