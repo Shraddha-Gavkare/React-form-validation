@@ -6,7 +6,7 @@ This is a React application that demonstrates form validation without using thir
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-form-validation-demo.git
+   git clone https://github.com/shraddha-Gavkare/react-form-validation-demo.git
    
 2. Navigate to the project directory:
 cd react-form-validation-demo
