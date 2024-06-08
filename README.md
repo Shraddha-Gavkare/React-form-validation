@@ -17,19 +17,19 @@ npm install
 5. Start the application:
 npm start
 
-Usage
+#Usage:
 Fill out the form fields and observe the validation messages. 
 The submission button will be disabled until all fields are filled correctly. 
 You can also toggle the visibility of the password field. 
 After submitting the form, you'll be directed to a new page where you can view the submitted details.
 
-Features
+#Features:
 Form validation for required fields
 Display of error messages
 Submission button disabled until all fields are filled correctly
 Show/hide password functionality
 Display of submitted details on a new route
 
-Technologies Used
+#Technologies Used:
 React
 React Router DOM
